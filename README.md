@@ -8,9 +8,11 @@ Desenvolvido para a disciplina de "Programação WEB 2" do meu curso de Sistemas
    ```
 2. Instale as dependências do Composer:
    ```bash
-   composer install```
+   composer install
+   ```
 
 3. Executar a aplicação
    ```bash
-    php -S localhost:8000```
+    php -S localhost:8000
+   ```
 4. Acesse http://localhost:8000 no seu navegador para ver os dados falsos gerados.
