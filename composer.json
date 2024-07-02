@@ -1,0 +1,19 @@
+{
+    "name": "vendor/fakerphp",
+    "description": "fakerPHP",
+    "type": false,
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Fakerphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius Vitório",
+            "email": "vini.vtj@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
